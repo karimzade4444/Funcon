@@ -1,7 +1,9 @@
+import Top from "./components/top";
+
 function App() {
   return (  
 <div>
-
+<Top/>
 </div>
 
   );
