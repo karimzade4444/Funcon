@@ -39,8 +39,8 @@ const Top = () => {
             Premine!
           </p>
           <div className="pt-10 flex  items-center gap-10">
-            <button className="w-35 h-10 border-2 border-white rounded-3xl text-white font-bold">JOIN</button>
-            <button className="w-35 h-10 border-0 border-white rounded-3xl text-black/80 font-bold bg-white">WHITEPAPER</button>
+            <button className="w-35 h-10 border-2 border-white rounded-3xl text-white font-bold cursor-pointer">JOIN</button>
+            <button className="w-35 h-10 border-0 border-white rounded-3xl text-black/80 font-bold bg-white cursor-pointer">WHITEPAPER</button>
           </div>
         </div>
       </div>
